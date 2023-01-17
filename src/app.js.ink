@@ -337,6 +337,7 @@ Sidebar := () => (
 				' and '
 				Link('Torus', 'https://github.com/thesephist/torus')
 				'.'
+				' This version running on nine.local:7650 '
 			])
 		])
 		hae('div', ['sidebar-shade'], {}, {
